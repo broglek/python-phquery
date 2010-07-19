@@ -1,0 +1,21 @@
+Metadata-Version: 1.0
+Name: phquery
+Version: 0.4
+Summary: A simple module for getting info from a PH/QI server.
+Home-page: http://www.mattdm.org/misc/python-ph/
+Author: John N. Laliberte 
+Author-email: allanonjl@gentoo.org
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Communications :: Email :: Address Book
+Classifier: Topic :: Internet
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: System :: Networking
+Classifier: Topic :: System :: Systems Administration :: Authentication/Directory

@@ -1,0 +1,6 @@
+phquery (0.4) unstable; urgency=low
+
+  * Initial Debian Packaging
+
+ -- Kyle Brogle <broglek@bu.edu>  Mon, 19 Jul 2010 16:17:00 -0400
+
